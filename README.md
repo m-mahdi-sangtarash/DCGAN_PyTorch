@@ -12,3 +12,8 @@ DCGAN (Deep Convolutional Generative Adversarial Network) is a type of GAN (Gene
 * Discriminator
 
   ![DCGAN model](readme-imgs/Discriminator.jpg)
+
+
+## Celeba Dataset
+
+![dataset image](readme-imgs/images.jpg)
