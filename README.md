@@ -30,6 +30,6 @@ _Sample images from CelebA Dataset_
   ![plot](Outputs/Gen-disc-training-loss.png)
 
 
-* Animation Output
+* Animation Output (3 epochs)
 
   ![animation output](Outputs/animation-output.gif)
